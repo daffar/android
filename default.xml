@@ -32,7 +32,7 @@
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/samsung/beni" name="Jellaxy/android_device_samsung_beni" />
   <project path="device/samsung/gio" name="Jellaxy/android_device_samsung_gio" />
-  <project path="device/samsung/mini" name="Jellaxy/android_device_samsung_mini" />
+  <project path="device/samsung/tass" name="Jellaxy/android_device_samsung_tass" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="docs/source.android.com" name="CyanogenMod/android_docs_source.android.com" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" />
