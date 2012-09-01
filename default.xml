@@ -33,6 +33,7 @@
   <project path="device/samsung/beni" name="Jellaxy/android_device_samsung_beni" />
   <project path="device/samsung/gio" name="Jellaxy/android_device_samsung_gio" />
   <project path="device/samsung/tass" name="Jellaxy/android_device_samsung_tass" />
+  <project path="device/samsung/msm7x27-common" name="Jellaxy/android_device_samsung_msm7x27-common" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="docs/source.android.com" name="CyanogenMod/android_docs_source.android.com" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" />
@@ -223,7 +224,7 @@
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
-  <project path="kernel/samsung/msm7x27-common" name="Jellaxy/android_kernel_samsung_msm7x27" revision="jellykernel" />
+  <project path="kernel/samsung/msm7x27" name="Jellaxy/android_kernel_samsung_msm7x27" revision="jellykernel" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" />
   <project path="ndk" name="CyanogenMod/android_ndk" />
