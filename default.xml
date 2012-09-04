@@ -31,7 +31,7 @@
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/samsung/beni" name="Jellaxy/android_device_samsung_beni" />
-  <project path="device/samsung/cooper" name="Jellaxy/android_device_samsung_cooper" revision="master" />
+  <project path="device/samsung/cooper" name="Jellaxy/android_device_samsung_cooper" />
   <project path="device/samsung/gio" name="Jellaxy/android_device_samsung_gio" />
   <project path="device/samsung/tass" name="Jellaxy/android_device_samsung_tass" />
   <project path="device/samsung/msm7x27-common" name="Jellaxy/android_device_samsung_msm7x27-common" />
